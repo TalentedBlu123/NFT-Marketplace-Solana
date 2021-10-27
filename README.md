@@ -1,4 +1,4 @@
-### NFT Marketplace with Rust on Solana
+## NFT Marketplace with Rust on Solana
 
 ### Compile and Deploy Contracts
 - make sure you have solana installed
@@ -40,7 +40,7 @@ yarn && yarn bootstrap
 yarn start
 ```
 
-# Open the site in a browser 
+### Open the site in a browser 
 
 ```
 http://localhost:3000
